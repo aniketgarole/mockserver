@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "name": ";lkff",
+        "age": "kljjff",
+        "place": "kljflas",
+        "batch_name": "WEB-14",
+        "profession": "Frontend",
+        "id": 1
+      },
+      {
+        "batch_name": "WEB-14",
+        "id": 2
+      },
+      {
+        "profession": "Frontend",
+        "id": 3
+      },
+      {
+        "name": "dfmg;ldjfoidsf",
+        "age": "dsj;lfjfk;ls",
+        "place": "jd fkclfjios",
+        "batch_name": "WEB-15",
+        "profession": "Frontend",
+        "id": 4
+      }
+    ]
+  }
